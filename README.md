@@ -4,24 +4,6 @@ A simple Flutter application demonstrating how the **DataTable** widget can be u
 
 ---
 
-## Project Overview
-
-This app demonstrates the Flutter **DataTable** widget using a realistic example of a student attendance system.
-
-The app displays:
-- Student names
-- Course names
-- Attendance percentages
-
-Users can:
-- Toggle table borders on/off
-- Adjust column spacing dynamically
-- Select individual rows
-
-This simulates how DataTable can be used in academic or administrative systems.
-
----
-
 ##  Widget Demonstrated
 
 ### DataTable
@@ -60,9 +42,11 @@ It consists of:
 - Used when multiple row selection is required.
 
 ---
+## Screenshot image
+![alt text](<image.png>)
 
 ## How to Run the Project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/justine-neema/Widget-presentation.git
