@@ -1,4 +1,4 @@
-# Flutter DataTable Demo – Student Attendance App
+# DataTable Demo widget
 
 A simple Flutter application demonstrating how the **DataTable** widget can be used to display structured data in a real-world student attendance scenario.
 
@@ -16,6 +16,9 @@ It consists of:
 - `DataCell` → contains individual values
 
 ---
+## Screenshot image
+![alt text](<image.png>)
+
 
 ## Three Demonstrated Properties
 
@@ -42,9 +45,6 @@ It consists of:
 - Used when multiple row selection is required.
 
 ---
-## Screenshot image
-![alt text](<image.png>)
-
 ## How to Run the Project
 
 1. Clone the repository:
