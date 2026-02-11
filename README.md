@@ -50,3 +50,8 @@ It consists of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/justine-neema/Widget-presentation.git
+
+2. cd ```Widget-presentation.git```
+
+3. Flutter pub get
+4. flutter run
