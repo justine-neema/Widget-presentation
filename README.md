@@ -1,4 +1,4 @@
-<!-- # Flutter DataTable Demo – Student Attendance App
+# Flutter DataTable Demo – Student Attendance App
 
 A simple Flutter application demonstrating how the **DataTable** widget can be used to display structured data in a real-world student attendance scenario.
 
@@ -65,4 +65,4 @@ It consists of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git -->
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
